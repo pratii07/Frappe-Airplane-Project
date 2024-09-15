@@ -3,7 +3,7 @@ name = "airplane_mode"
 authors = [
     { name = "PAS", email = "pratikshashapane22@navgurukul.org"}
 ]
-description = "1st Assignment"
+description = "fly high"
 requires-python = ">=3.10"
 readme = "README.md"
 dynamic = ["version"]

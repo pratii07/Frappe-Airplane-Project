@@ -1,7 +1,7 @@
 app_name = "airplane_mode"
-app_title = "airplane_mode"
+app_title = "Airplane Mode"
 app_publisher = "PAS"
-app_description = "1st Assignment"
+app_description = "fly high"
 app_email = "pratikshashapane22@navgurukul.org"
 app_license = "mit"
 
@@ -15,7 +15,7 @@ app_license = "mit"
 # 	{
 # 		"name": "airplane_mode",
 # 		"logo": "/assets/airplane_mode/logo.png",
-# 		"title": "airplane_mode",
+# 		"title": "Airplane Mode",
 # 		"route": "/airplane_mode",
 # 		"has_permission": "airplane_mode.api.permission.has_app_permission"
 # 	}
